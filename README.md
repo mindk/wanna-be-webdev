@@ -1,1 +1,21 @@
-# wanna-be-webdev
+# What If I decided to become a web developer?
+
+Dear beginner web developer, below you can find a checklist of topics and approaches that we, [MindK](http://www.mindk.com), think are required to learn and understand in order to obtain position of a **Junior PHP/JS Developer** in any modern software development company.
+
+## Development Environment
+
+* Unix-based operational system.
+* IDE: we prefer [PHPStorm](https://www.jetbrains.com/phpstorm/).
+
+
+## Client-server Model
+
+* What are the basics of client-server model.
+* HTTP protocol:
+  * HTTP-request;
+  * HTTP-response.
+  * 
+  
+
+
+If you think you have knowledge and deep understanding of all or almost all of the topics above, contact us immediately at [talents@mindk.com](mailto:talents@mindk.com)
