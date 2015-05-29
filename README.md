@@ -20,6 +20,11 @@ We composed this list based on a few hundrend technical interviews that we did d
 ## OOP and Its PHP Implementation
 
 
+## Dependency Injection and Service Locator
+
+* [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
+* [Symfony DependencyInjection Component](http://symfony.com/doc/current/components/dependency_injection/index.html)
+
 ## Web Server Apache
 
 ## Git
