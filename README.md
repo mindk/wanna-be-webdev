@@ -24,6 +24,7 @@ We composed this list based on a few hundrend technical interviews that we did d
 
 * [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
 * [Symfony DependencyInjection Component](http://symfony.com/doc/current/components/dependency_injection/index.html)
+* [A Simple PHP DI Container](http://pimple.sensiolabs.org)
 
 ## Web Server Apache
 
