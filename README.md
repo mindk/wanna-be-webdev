@@ -2,7 +2,7 @@
 
 Dear beginner web developer, below you can find a checklist of topics and approaches that we, [MindK](http://www.mindk.com), think are required to learn and understand in order to obtain position of a **Junior PHP/JS Developer** in any modern software development company.
 
-We composed this list based on a few hundrend technical interviews that we did during the last 5 years.
+We composed this list based on a few hundrend technical interviews that we conducted during the last 5 years.
 
 ## Development Environment
 
